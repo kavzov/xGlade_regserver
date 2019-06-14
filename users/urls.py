@@ -12,7 +12,7 @@ urlpatterns = [
     url(
         r'^api/user/create/?$',
         views.UserCreateView.as_view(),
-        name='user create'
+        name='create user'
     ),
     url(
         r'^api/user/(?P<pk>\d+)/?$',
