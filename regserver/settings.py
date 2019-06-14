@@ -130,7 +130,7 @@ DATABASES = {
         'USER': 'xglade',
         'PASSWORD': 'xglade',
         'HOST': 'localhost',
-        'PORT': '25432',
+        'PORT': '5432',
     }
 }
 
