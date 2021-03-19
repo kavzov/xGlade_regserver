@@ -3,7 +3,7 @@ bcrypt==3.1.6
 cffi==1.12.3
 Django==2.2.2
 django-templated-mail==1.1.1
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 djoser==1.7.0
 isort==4.3.20
 lazy-object-proxy==1.4.1
